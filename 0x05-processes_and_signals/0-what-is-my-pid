@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# my pid task
+
+sleep 5 &
+echo "$!"
